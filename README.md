@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Coursera Capstone
+This repo will be mainly used for the capstone project for IBM Applied Data Science Capstone course on Coursera. 
 
-You can use the [editor on GitHub](https://github.com/PythonParadox/Coursera_Capstone/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_**Update:** This capstone project has been submitted in June 2020 as part of the requirements for completion of the IBM Data Science Professional Certificate on Coursera._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Full Report
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Presentation Slides
+f
 
-```markdown
-Syntax highlighted code block
+#### Jupyter Notebook
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PythonParadox/Coursera_Capstone/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Tableau Visualization
